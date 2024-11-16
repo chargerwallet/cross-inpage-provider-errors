@@ -1,6 +1,6 @@
 {
-  "name": "cross-inpage-provider-errors",
-  "version": "3.0.0",
+  "name": "@chargerwallet/cross-inpage-provider-errors",
+  "version": "3.0.1",
   "keywords": [
     "cross-inpage-provider-errors"
   ],
